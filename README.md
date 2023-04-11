@@ -7,11 +7,10 @@ This repository contains my solutions to the programming assignments for the Lin
 ### Course Overview
 The course is divided into five weeks, each covering a different aspect of linear algebra:
 
-* Week 1: Vectors and Matrices
-* Week 2: Linear Transformations and Linear Equations
-* Week 3: Eigenvectors and Eigenvalues
-* Week 4: Singular Value Decomposition (SVD)
-* Week 5: Principal Component Analysis (PCA)
+* Week 1: System of linear equations
+* Week 2: Solving system of linear equations
+* Week 3: Vectors and Linear Transformations
+* Week 4: Determinants and Eigenvectors
 
 Each week includes video lectures, reading materials, and programming assignments. 
 
