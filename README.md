@@ -29,5 +29,9 @@ _pip install numpy matplotlib_
 If you want to learn more about the topics covered in this course, here are some recommended resources:
 
 * Linear Algebra and Its Applications by Gilbert Strang
+* Elementary Linear Algebra, 8th Edition by Ron Larson  
+* Khan Academy Algebra Course
+
+Optional Extras
 * Matrix Analysis and Applied Linear Algebra by Carl D. Meyer
 * Python Data Science Handbook by Jake VanderPlas
